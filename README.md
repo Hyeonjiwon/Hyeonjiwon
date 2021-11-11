@@ -60,6 +60,6 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://hyeonjiwon.github.io/categories/#project/api?name=Hyeonjiwon&tag=프로젝트)](https://hyeonjiwon.github.io/categories/#project)
+  [![프로젝트 정리](https://hyeonjiwon.github.io/categories/#project/api?name=Hyeonjiwon&tag=프로젝트)](https://hyeonjiwon.github.io/categories/#project)
   
 </div>
