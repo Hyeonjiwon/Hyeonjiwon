@@ -62,6 +62,6 @@
   
   [![프로젝트 정리](https://hyeonjiwon.github.io/categories/#project/api?name=Hyeonjiwon&tag=프로젝트)](https://hyeonjiwon.github.io/categories/#project)
   <br>
-  [![Notion protfolio]()]([https://hyeonjiwon.github.io/categories/#project](https://crimson-zephyr-41c.notion.site/132f7a680e9c4a5cb291e1b7189c3540))
+  [![Notion protfolio](https://crimson-zephyr-41c.notion.site/132f7a680e9c4a5cb291e1b7189c3540)](https://crimson-zephyr-41c.notion.site/132f7a680e9c4a5cb291e1b7189c3540)
   
 </div>
